@@ -9,3 +9,8 @@ Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
 Because it is more reasonable to pull changes in your files when you have a meaningful change in your code, and that only be decided properly manually.
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+I haven't studied the difference between those three, but based on what i known, branches used when you want to create a new category or work with a version that you are not sure about it. Clones is a copied of your files, when you change it will not affect the original files.
