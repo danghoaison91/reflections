@@ -1,1 +1,5 @@
 Reflection file for lesson 3
+
+When would you want to create a remote repository rather than keeping all your work local?
+
+When I want to collaborate my work with colleague or to save my file in cloud to ensure that won't lost due to computer problem.
