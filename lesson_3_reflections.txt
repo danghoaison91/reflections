@@ -13,4 +13,4 @@ Because it is more reasonable to pull changes in your files when you have a mean
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-I haven't studied the difference between those three, but based on what i known, branches used when you want to create a new category or work with a version that you are not sure about it. Clones is a copied of your files, when you change it will not affect the original files.
+Forks is to create a copy of a github repository to another repository in different spot in github that will allow you to modify it as your own. Clone is to create a copy of the github repository in your computer. Branches is to split your files into many different category of working so that it can work separately, and merge after if needed
