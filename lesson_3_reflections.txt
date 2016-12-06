@@ -3,3 +3,9 @@ Reflection file for lesson 3
 When would you want to create a remote repository rather than keeping all your work local?
 
 When I want to collaborate my work with colleague or to save my file in cloud to ensure that won't lost due to computer problem.
+
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+Because it is more reasonable to pull changes in your files when you have a meaningful change in your code, and that only be decided properly manually.
